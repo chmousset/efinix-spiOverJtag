@@ -1,5 +1,5 @@
 # JTAG to SPI bridge for openFPGALoader
-Efinity project file to create binares for openFPGALoader.
+[Efinity](https://www.efinixinc.com/products-efinity.html) project file to create binares for openFPGALoader.
 
 # Supporting new devices/packages
 For Trion, a tool helps creating a new sopported device:
